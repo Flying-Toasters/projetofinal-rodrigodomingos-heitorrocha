@@ -23,7 +23,7 @@ catch(erro)
 function save(){
     try {
         fs.writeFileSync('musicas.json', JSON.stringify(dadomusicas, null, 2), 'utf-8');
-        console.log('Dados guardados em jogos.json com sucesso!');
+        console.log('Dados guardados com sucesso');
     } catch (erro) {
         console.log('Erro ao gravar no ficheiro:', erro.message);
     }
