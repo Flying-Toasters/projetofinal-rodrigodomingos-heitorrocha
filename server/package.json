@@ -1,0 +1,29 @@
+{
+  "name": "projetofinal-rodrigodomingos-heitorrocha",
+  "version": "1.0.0",
+  "description": "API:",
+  "main": "index.js",
+"scripts": {
+  "start": "node server.js",
+  "dev": "nodemon server.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flying-Toasters/projetofinal-rodrigodomingos-heitorrocha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Flying-Toasters/projetofinal-rodrigodomingos-heitorrocha/issues"
+  },
+  "homepage": "https://github.com/Flying-Toasters/projetofinal-rodrigodomingos-heitorrocha#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

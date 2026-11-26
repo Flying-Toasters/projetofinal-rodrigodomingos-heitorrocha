@@ -1,0 +1,7 @@
+[
+    { "id": 1, "nomeartista": "Black Sabbath", "nomemusica": "A National Acrobat", "genero": "Heavy Metal", "duracao":373 },
+    { "id": 2, "nomeartista": "Pink Floyd", "nomemusica": "Shine On You Crazy Diamond", "genero": "Rock Progressivo", "duracao":1562 },
+    { "id": 3, "nomeartista": "Iron Maiden", "nomemusica": "Hallowed Be Thy Name", "genero": "Heavy Metal", "duracao":428 },
+    { "id": 4, "nomeartista": "Koji Kondo", "nomemusica": "Song of Healing", "genero": "Ambiente/Trilha Sonora", "duracao":83 },
+    { "id": 5, "nomeartista": "Led Zeppelin", "nomemusica": "Bron-Y-Aur Stomp", "genero": "Folk Rock", "duracao":257 }
+]
